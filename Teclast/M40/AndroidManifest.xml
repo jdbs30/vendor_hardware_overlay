@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" 			 
+	package="me.phh.treble.overlay.teclast.m40" 
+	platformBuildVersionCode="29" 
+	platformBuildVersionName="10">
+    		<application 
+    			android:extractNativeLibs="false"/>
+    	<overlay 
+    		android:isStatic="true" 
+    		android:priority="864" 
+    		android:targetPackage="android"
+    		android:requiredSystemPropertyValue="+teclast/m40"/>
+    		
+</manifest>

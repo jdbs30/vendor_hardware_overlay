@@ -210,6 +210,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-sony-pdx213-systemui \
 	treble-overlay-sprd-ims \
 	treble-overlay-teclast-m30 \
+	treble-overlay-teclast-m40 \
 	treble-overlay-teclast-t30 \
 	treble-overlay-tecno-camon11 \
 	treble-overlay-tecno-spark5 \
